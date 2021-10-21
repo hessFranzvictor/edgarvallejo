@@ -8,10 +8,10 @@ fields:
     required: false
   label: Edgar Guillermo Vallejo Guarin
   description: El sitio mas poderoso de <strong>Edgar Guillermo Vallejo Guarin</strong>
-- name: description
+- name: description_la_web
   type: text
   config:
     required: false
-  label: description
+  label: description de la web
 pages:
 - docs/about.md
