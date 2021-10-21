@@ -3,6 +3,6 @@ title: About
 description: A simple page about this site
 
 ---
-# About
+# **Edgar Guillermo Vallejo Guarin**
 
-This VuePress theme was imported in [Forestry](https:://forestry.io), a git-backed headless CMS.
+Pensando en como brindar la mejor sabiduría me desi di a invertir parte de mi tiempo a la investigación de la tecnología para llevar mis escritos  a un publico mas amplio
