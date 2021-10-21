@@ -1,6 +1,6 @@
 ---
-title: About
-description: A simple page about this site
+title: Edgar Guillermo Vallejo Guarin
+description: la poderosa tecnologia de los blogs para Edgar Guillermo Vallejo Guarin
 
 ---
 # **Edgar Guillermo Vallejo Guarin**
