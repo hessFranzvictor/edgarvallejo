@@ -2,11 +2,12 @@
 label: Page
 hide_body: false
 fields:
-- name: title
+- name: Edgar_Guillermo_Vallejo_Guarin
   type: text
   config:
     required: false
-  label: title
+  label: Edgar Guillermo Vallejo Guarin
+  description: El sitio mas poderoso de <strong>Edgar Guillermo Vallejo Guarin</strong>
 - name: description
   type: text
   config:
